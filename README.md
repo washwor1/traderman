@@ -1,0 +1,2 @@
+# traderman
+AI Trade Bot
